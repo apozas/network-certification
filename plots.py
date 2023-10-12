@@ -260,7 +260,7 @@ for pos, fig_bases in enumerate([allprobs.keys(), short]):
         x=dataframe["Data"],
         y=dataframe["Ineq"],
         z=dataframe["Value"],
-        # smallest_value=minvals[pos],
+        smallest_value=minvals[pos],
         figsize=figsize
     )
     plt.savefig(f"Plots/experimental_ghz_{extra}.pdf", bbox_inches="tight")
