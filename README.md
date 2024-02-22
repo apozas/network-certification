@@ -1,7 +1,7 @@
 ## Code to accompany *[Guarantees on the network structure of experimental quantum networks](https://www.arxiv.org/abs/2310.xxxxx)*
 #### Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Christopher L. Morrison, Peter Barrow, Francesco Graffitti, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens
 
-This is a repository containing the computational appendix of the article "*Guarantees on the network structure of experimental quantum networks*. Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Christopher L. Morrison, Peter Barrow, Francesco Graffitti, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens [arXiv:2310.xxxxx](https://www.arxiv.org/abs/2310.xxxxx)." It provides the codes for obtaining the results depicted in the figures in the manuscript, and the Bell-like inequalities found.
+This is a repository containing the computational appendix of the article "*Guarantees on the network structure of experimental quantum networks*. Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Christopher L. Morrison, Peter Barrow, Francesco Graffitti, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens [arXiv:2403.xxxxx](https://www.arxiv.org/abs/2403.xxxxx)." It provides the codes for obtaining the results depicted in the figures in the manuscript, and the Bell-like inequalities found.
 
 The code is written in Python.
 
@@ -18,17 +18,17 @@ Libraries required:
 
 Files and folders:
 
-  - [find_inequalities_ghz.py](https://github.com/apozas/yyyy/blob/main/find_inequalities_ghz.py): Code for obtaining the inequalities for the network corresponding to the experiment of [Ref]().
+  - [find_inequalities_ghz.py](https://github.com/apozas/yyyy/blob/main/find_inequalities_ghz.py): Code for obtaining the inequalities for the network corresponding to the experiment of [arXiv:2311.14158](https://arxiv.org/abs/2311.14158).
 
   - [find_inequalities_trident.py](https://github.com/apozas/yyyy/blob/main/find_inequalities_trident.py): Code for obtaining the inequalities for the network corresponding to the experiment of [npj Quantum Inf. **9**, 82 (2023)](https://doi.org/10.1038/s41534-023-00750-4).
 
-  - [evaluate_inequalities.py](https://github.com/apozas/yyyy/blob/main/evaluate_inequalities.py): Code for obtaining the inequalities for the network corresponding to the experiment of [Ref]().
+  - [evaluate_inequalities.py](https://github.com/apozas/yyyy/blob/main/evaluate_inequalities.py): Code for obtaining the inequalities for the network corresponding to the experiment of [arXiv:2311.14158](https://arxiv.org/abs/2311.14158).
 
   - [plots.py](https://github.com/apozas/yyyy/blob/main/plots.py): Code for creating the figures in the manuscript.
 
   - [utils.py](https://github.com/apozas/yyyy/blob/main/utils.py): Helper functions for importing, exporting and evaluating the inequalities.
 
-  - [GHZInequalities](https://github.com/apozas/yyyy/blob/main/GHZInequalities): Folder with the inequalities obtained for the network corresponding to the experiment of [Ref]().
+  - [GHZInequalities](https://github.com/apozas/yyyy/blob/main/GHZInequalities): Folder with the inequalities obtained for the network corresponding to the experiment of [arXiv:2311.14158](https://arxiv.org/abs/2311.14158).
 
   - [TridentInequalities](https://github.com/apozas/yyyy/blob/main/TridentInequalities): Folder with the inequalities obtained for the network corresponding to the experiment of [npj Quantum Inf. **9**, 82 (2023)](https://doi.org/10.1038/s41534-023-00750-4).
 
@@ -56,14 +56,14 @@ corresponds to the term ![](https://latex.codecogs.com/svg.latex?0.5p_{BCD}(0,0,
 #### Citing
 If you would like to cite this work, please use the following format:
 
-A. Ulibarrena, J. W. Webb, A. Pickston, J. Ho, C. L. Morrison, P. Barrow, F. Graffitti, A. Fedrizzi, and A. Pozas-Kerstjens, _Guarantees on the network structure of experimental quantum networks_, arXiv:2310.xxxxx
+A. Ulibarrena, J. W. Webb, A. Pickston, J. Ho, C. L. Morrison, P. Barrow, F. Graffitti, A. Fedrizzi, and A. Pozas-Kerstjens, _Guarantees on the network structure of experimental quantum networks_, arXiv:2403.xxxxx
 
 ```
-@misc{ulibarrena2023guarantees,
+@misc{ulibarrena2024guarantees,
   title = {Guarantees on the network structure of experimental quantum networks},
-  author = {Ulibarrena, Andrés and Webb, Jonathan W. and Pickston, Alexander and Ho, Joseph and Morrison, Christopher L. and Barrow, Peter and Graffitti, Francesco and Fedrizzi, Alessandro and Pozas-Kerstjens, Alejandro},
+  author = {Ulibarrena, Andrés and Webb, Jonathan W. and Pickston, Alexander and Ho, Joseph and Fedrizzi, Alessandro and Pozas-Kerstjens, Alejandro},
   archivePrefix = {arXiv},
-  eprint = {2310.xxxxx},
-  year = {2023}
+  eprint = {2403.xxxxx},
+  year = {2024}
 }
 ```
