@@ -22,7 +22,7 @@ Files and folders:
 
   - [find_inequalities_trident.py](https://github.com/apozas/network-certification/blob/main/find_inequalities_trident.py): Code for obtaining the inequalities for the network corresponding to the experiment of [npj Quantum Inf. **9**, 82 (2023)](https://doi.org/10.1038/s41534-023-00750-4).
 
-  - [evaluate_inequalities.py](https://github.com/apozas/network-certification/blob/main/evaluate_inequalities.py): Code for obtaining the inequalities for the network corresponding to the experiment of [arXiv:2311.14158](https://arxiv.org/abs/2311.14158).
+  - [inequality_evaluation.py](https://github.com/apozas/network-certification/blob/main/inequality_evaluation.py): Code for obtaining the inequalities for the network corresponding to the experiment of [arXiv:2311.14158](https://arxiv.org/abs/2311.14158).
 
   - [plots.py](https://github.com/apozas/network-certification/blob/main/plots.py): Code for creating the figures in the manuscript.
 
