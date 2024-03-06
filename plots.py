@@ -1,8 +1,8 @@
 # Code for
 #
-# Guarantees on the network structure of experimental quantum networks
+# Guarantees on the structure of experimental quantum networks
 #
-# arXiv:2310.xxxxx
+# arXiv:2403.02376
 #
 # Authors: Alejandro Pozas-Kerstjens
 #
