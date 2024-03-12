@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10807491.svg)](https://doi.org/10.5281/zenodo.10807491)
+
 ## Code to accompany *[Guarantees on the structure of experimental quantum networks](https://www.arxiv.org/abs/2403.xxxxx)*
 #### Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens
 
