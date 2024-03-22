@@ -13,7 +13,7 @@
 #           tqdm  for progress bars
 #           numbers, os
 # 
-# Last modified: Sep, 2023
+# Last modified: Mar, 2024
 
 import os
 import numpy as np
@@ -31,7 +31,6 @@ dag = {"h1": ["A", "B", "C", "D"],
 vis = Symbol("v")
 
 data_path = "DATA_PATH"
-data_path = "../TridentReFormattedData/Combined_limitedSet_2021-04-12--10h-48m_13--20h-20m_13e-8"
 ineq_path = "TridentInequalities"
 measurements_list = [file[:6] for file in os.listdir(data_path)]
 
