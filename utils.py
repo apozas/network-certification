@@ -12,7 +12,7 @@
 #           qutip for quantum states
 #           csv, itertools, numbers
 # 
-# Last modified: Sep, 2023
+# Last modified: Mar, 2024
 
 import csv
 import numpy as np
@@ -718,7 +718,7 @@ meas = [[0.5*(qt.qeye(2)+qt.sigmax()), 0.5*(qt.qeye(2)-qt.sigmax())],
         [0.5*(qt.qeye(2)+qt.sigmaz()), 0.5*(qt.qeye(2)-qt.sigmaz())]]
 
 def prob_noin(vis, state, measurements):
-    prob_array = np.zeros((2,2,2,2,2,2,2,2,2,2,2,2))
+    prob_array = np.zeros((2,2,2,2,2,2,1,1,1,1,1,1))
     meas_choices = [ord(inp) - 88 for inp in measurements]
     x, y, z, t, u, v = meas_choices
     if isinstance(vis, Real):
