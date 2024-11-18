@@ -1,7 +1,7 @@
 # Code for
 #
 # Guarantees on the structure of experimental quantum networks
-#
+# npj Quantum Inf. 10, 117 (2024)
 # arXiv:2403.02376
 #
 # Authors: Alejandro Pozas-Kerstjens

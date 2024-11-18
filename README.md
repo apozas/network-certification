@@ -3,7 +3,7 @@
 ## Code to accompany *[Guarantees on the structure of experimental quantum networks](https://www.arxiv.org/abs/2403.xxxxx)*
 #### Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens
 
-This is a repository containing the computational appendix of the article "*Guarantees on the structure of experimental quantum networks*. Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens [arXiv:2403.02376](https://www.arxiv.org/abs/2403.02376)." It provides the codes for obtaining the results depicted in the figures in the manuscript, and the Bell-like inequalities found.
+This is a repository containing the computational appendix of the article "*Guarantees on the structure of experimental quantum networks*. Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens. [npj Quantum Inf. 10, 117 (2024)](https://www.nature.com/articles/s41534-024-00911-z) ([arXiv:2403.02376](https://www.arxiv.org/abs/2403.02376))." It provides the codes for obtaining the results depicted in the figures in the manuscript, and the Bell-like inequalities found.
 
 The code is written in Python.
 
@@ -58,12 +58,17 @@ corresponds to the term ![](https://latex.codecogs.com/svg.latex?0.5p_{BCD}(0,0,
 #### Citing
 If you would like to cite this work, please use the following format:
 
-A. Ulibarrena, J. W. Webb, A. Pickston, J. Ho, A. Fedrizzi, and A. Pozas-Kerstjens, _Guarantees on the structure of experimental quantum networks_, arXiv:2403.02376
+A. Ulibarrena, J. W. Webb, A. Pickston, J. Ho, A. Fedrizzi, and A. Pozas-Kerstjens, _Guarantees on the structure of experimental quantum networks_, npj Quantum Inf. **10**, 117 (2024), arXiv:2403.02376
 
 ```
-@misc{ulibarrena2024guarantees,
+@article{ulibarrena2024guarantees,
   title = {Guarantees on the structure of experimental quantum networks},
   author = {Ulibarrena, Andrés and Webb, Jonathan W. and Pickston, Alexander and Ho, Joseph and Fedrizzi, Alessandro and Pozas-Kerstjens, Alejandro},
+  journal = {npj Quantum Inf.},
+  volume = {10},
+  pages = {117},
+  doi = {10.1038/s41534-024-00911-z},
+  url = {https://www.nature.com/articles/s41534-024-00911-z},
   archivePrefix = {arXiv},
   eprint = {2403.02376},
   year = {2024}
