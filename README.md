@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10807491.svg)](https://doi.org/10.5281/zenodo.10807491)
 
-## Code to accompany *[Guarantees on the structure of experimental quantum networks](https://www.arxiv.org/abs/2403.xxxxx)*
+## Code to accompany *[Guarantees on the structure of experimental quantum networks](https://www.arxiv.org/abs/2403.02376)*
 #### Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens
 
 This is a repository containing the computational appendix of the article "*Guarantees on the structure of experimental quantum networks*. Andrés Ulibarrena, Jonathan W. Webb, Alexander Pickston, Joseph Ho, Alessandro Fedrizzi, and Alejandro Pozas-Kerstjens. [npj Quantum Inf. 10, 117 (2024)](https://www.nature.com/articles/s41534-024-00911-z) ([arXiv:2403.02376](https://www.arxiv.org/abs/2403.02376))." It provides the codes for obtaining the results depicted in the figures in the manuscript, and the Bell-like inequalities found.
